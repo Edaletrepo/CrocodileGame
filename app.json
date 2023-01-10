@@ -7,10 +7,12 @@
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather.",
       "required": true
+      "value":"5962914481:AAH-vL5N8UouplN-A7ycXA8HYvRd_SfTKhw"
     },
     "MONGO_URI": {
       "description": "A MongoDB URI.",
       "required": true
+      "value":"mongodb+srv://yenitagbotu:rosetagbotv2@cluster0.ptsfkij.mongodb.net/yenitagbotu?retryWrites=true&w=majority"
     }
   },
   "buildpacks": [
